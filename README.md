@@ -22,8 +22,7 @@ Points out that tapping the "Get Started" button triggers navigation to the next
 [ThirdS()]In this screen users can add their information to fields and save the changes and it store userDate class then passthe data data through the this screen
 [FourthS()]In this Screen i am doing like dashboard page it will show the categories of the sports type then  i am creating list for storing the types of the sport and i had designed the card widget with some design with the ListView widget
 [LastS()] in this screen features an app bar with a "Sign out" title and a main body section with a background color of green. The body contains an image, a text prompt asking, "Are you sure?", and a "Sign out" button. Tapping the "Sign out" 
-[
-![Uploading Screenshot_1700493365.png…]()
-](url)
+![Screenshot_1700493361](https://github.com/RustamQodirov/homework3/assets/115059100/6fc996d8-440b-46eb-81cf-0b116f69aa2f)
+![Screenshot_1700493798](https://github.com/RustamQodirov/homework3/assets/115059100/940f9a93-319c-400f-9af5-3a659d1bdbec)
 
  

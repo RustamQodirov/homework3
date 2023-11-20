@@ -24,7 +24,10 @@ Points out that tapping the "Get Started" button triggers navigation to the next
 [LastS()] in this screen features an app bar with a "Sign out" title and a main body section with a background color of green. The body contains an image, a text prompt asking, "Are you sure?", and a "Sign out" button. Tapping the "Sign out" 
 ![Screenshot_1700493361](https://github.com/RustamQodirov/homework3/assets/115059100/6fc996d8-440b-46eb-81cf-0b116f69aa2f)
 ![Screenshot_1700493798](https://github.com/RustamQodirov/homework3/assets/115059100/940f9a93-319c-400f-9af5-3a659d1bdbec)
-![Screenshot_1700493802](https://github.com/RustamQodirov/homework3/assets/115059100/0f10c29d-9f1e-4366-ab16-ec4fc3b4f9b3)
+![Screenshot_1700494138](https://github.com/RustamQodirov/homework3/assets/115059100/93437ce6-6c16-4ca0-bd68-1ae3adcc115e)
+![Screenshot_1700494141](https://github.com/RustamQodirov/homework3/assets/115059100/fd75993d-0f18-4cb4-a9f1-de2f1d9eddd3)
+![Screenshot_1700494144](https://github.com/RustamQodirov/homework3/assets/115059100/87b1d0a0-b131-4303-b63e-cc13912f0b52)
+
 
 
  

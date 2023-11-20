@@ -14,7 +14,7 @@ class _HomeScState extends State<HomeSc> {
     return Scaffold(
       body: Stack(
         children: [
-          // Title Positioned at the top center
+          
           const Positioned(
             top: 105,
             left: 0,
